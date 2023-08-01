@@ -1,0 +1,5 @@
+# PekkoExceptionSample
+
+Stream処理中に例外で処理を抜けた場合、アプリケーションが終了するかを確認した。
+
+結果的にActorSystemを明示的に止めないと終了しない。
